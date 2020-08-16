@@ -53,5 +53,41 @@
     "photo": "/unicorns/photos/unicorn-6.jpg",
     "hobbies": ["Vampire Diaries", "Gossip Girl", "Justin Bieber", "One Direction"],
     "capacities": [1, 2, 3]
+  },
+  {
+    "id": 7,
+    "name": "Hervé",
+    "birthyear": 2011,
+    "weight": 21,
+    "photo": "/unicorns/photos/unicorn-7.jpg",
+    "hobbies": ["Drink", "Football", "cycling"],
+    "capacities": [3]
+  },
+  {
+    "id": 8,
+    "name": "Christian",
+    "birthyear": 1985,
+    "weight": 75,
+    "photo": "/unicorns/photos/unicorn-8.png",
+    "hobbies": ["Horsing", "Gymnastic", "Parties"],
+    "capacities": [2, 4]
+  },
+  {
+    "id": 9,
+    "name": "Gandalf",
+    "birthyear": 1870,
+    "weight": 65,
+    "photo": "/unicorns/photos/unicorn-9.png",
+    "hobbies": ["Dragons", "Magic"],
+    "capacities": [4]
+  },
+  {
+    "id": 10,
+    "name": "Donatello, Raphael, Michelangelo & leonardo",
+    "birthyear": 1999,
+    "weight": 300,
+    "photo": "/unicorns/photos/unicorn-10.jpg",
+    "hobbies": ["Pizzas", "Martial arts"],
+    "capacities": [1, 2]
   }
 ]
